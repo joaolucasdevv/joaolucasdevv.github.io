@@ -108,3 +108,9 @@
     margin-right: 5px;
     max-width: 20px;
 }
+
+/* About container */
+#name {
+    font-size: 42px;
+    margin-bottom: 15px;
+}
