@@ -62,4 +62,6 @@
     margin-bottom: 25px;
 }
 
-/*  */
+#social-container {
+    display: flex;
+}
