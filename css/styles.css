@@ -84,3 +84,8 @@
     color: var(--main-color);
     font-size: 30px;
 }
+
+#email-container {
+    display: flex;
+    justify-content: center;
+}
