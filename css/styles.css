@@ -55,6 +55,10 @@
     margin-bottom: 20px;
 }
 
+#bio-container #welcome-text {
+    font-weight: bold;
+}
+
 #bio-image {
     width: 175px;
     height: 175px;
