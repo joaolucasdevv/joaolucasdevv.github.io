@@ -141,3 +141,8 @@
     text-align: center;
     display: flex;
 }
+
+#btn-projects ion-icon,
+#btn-projects span {
+    flex: 1 1 0;
+}
