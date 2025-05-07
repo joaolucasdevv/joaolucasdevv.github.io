@@ -210,4 +210,10 @@
         padding: 30px;
     }
 
+    #about-container .description {
+        margin: 10px auto;
+        max-width: 100%;
+        line-height: 26px;
+    }
+
 }
