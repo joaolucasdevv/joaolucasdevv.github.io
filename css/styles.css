@@ -155,3 +155,8 @@
 #btn-projects:hover {
     background-color: transparent;
 }
+
+#skills-section-title {
+    border-top: 1px solid var(--border-color);
+    padding-top: 20px;margin-bottom: 20px;
+}
