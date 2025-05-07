@@ -205,4 +205,9 @@
         margin: 10px auto;
     }
 
+    #about-container {
+        text-align: center;
+        padding: 30px;
+    }
+
 }
