@@ -120,3 +120,8 @@
     margin-bottom: 15px;
     font-weight: bold;
 }
+
+.description {
+    max-width: 75%;
+    margin-bottom: 10px;
+}
