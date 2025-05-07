@@ -40,6 +40,7 @@
 /* Bio container */
 #bio-container {
     flex: 1 1 20%;
+    max-width: 250px;
     min-height: 100vh;
     background-color: var(--bio-bg-color);
     text-align: center;
@@ -99,4 +100,11 @@
     color: var(--main-text-color);
     text-decoration: none;
     max-width: 225px;
+}
+
+#email-container ion-icon {
+    color: var(--main-color);
+    font-size: 20px;
+    margin-right: 5px;
+    max-width: 20px;
 }
