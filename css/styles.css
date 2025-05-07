@@ -200,4 +200,9 @@
         border-bottom: 5px solid var(--bio-border-color);
     }
 
+    #bio-container p {
+        max-width: 60%;
+        margin: 10px auto;
+    }
+
 }
