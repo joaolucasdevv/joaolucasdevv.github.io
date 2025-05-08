@@ -80,7 +80,7 @@
     max-width: 60px;
 }
 
-#social-container li {
+#social-container li a {
     color: var(--main-color);
     font-size: 30px;
 }
